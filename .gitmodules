@@ -1,3 +1,6 @@
 [submodule "ruby-bootcamp/slide-201710-self-testing-code-ruby"]
 	path = ruby-bootcamp/slide-201710-self-testing-code-ruby
 	url = https://github.com/giosakti/slide-201710-self-testing-code-ruby
+[submodule "ruby-bootcamp/slide-201710-coding-conventions-ruby"]
+	path = ruby-bootcamp/slide-201710-coding-conventions-ruby
+	url = https://github.com/giosakti/slide-201710-coding-conventions-ruby.git
