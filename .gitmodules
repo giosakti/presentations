@@ -4,3 +4,30 @@
 [submodule "ruby-bootcamp/slide-201710-coding-conventions-ruby"]
 	path = ruby-bootcamp/slide-201710-coding-conventions-ruby
 	url = https://github.com/giosakti/slide-201710-coding-conventions-ruby.git
+[submodule "microservices/slide-201711-building-domain-knowledge"]
+	path = microservices/slide-201711-building-domain-knowledge
+	url = https://github.com/giosakti/slide-201711-building-domain-knowledge
+[submodule "microservices/slide-201711-componentization-via-services"]
+	path = microservices/slide-201711-componentization-via-services
+	url = https://github.com/giosakti/slide-201711-componentization-via-services
+[submodule "microservices/slide-201711-decentralized-data-management"]
+	path = microservices/slide-201711-decentralized-data-management
+	url = https://github.com/giosakti/slide-201711-decentralized-data-management
+[submodule "microservices/slide-201711-decentralized-governance"]
+	path = microservices/slide-201711-decentralized-governance
+	url = https://github.com/giosakti/slide-201711-decentralized-governance
+[submodule "microservices/slide-201711-dumb-pipes-smart-endpoints-1"]
+	path = microservices/slide-201711-dumb-pipes-smart-endpoints-1
+	url = https://github.com/giosakti/slide-201711-dumb-pipes-smart-endpoints-1
+[submodule "microservices/slide-201711-intro-to-ddd"]
+	path = microservices/slide-201711-intro-to-ddd
+	url = https://github.com/giosakti/slide-201711-intro-to-ddd
+[submodule "microservices/slide-201711-intro-to-microservices"]
+	path = microservices/slide-201711-intro-to-microservices
+	url = https://github.com/giosakti/slide-201711-intro-to-microservices
+[submodule "microservices/slide-201711-model-driven-design"]
+	path = microservices/slide-201711-model-driven-design
+	url = https://github.com/giosakti/slide-201711-model-driven-design
+[submodule "microservices/slide-201711-organized-around-capabilities"]
+	path = microservices/slide-201711-organized-around-capabilities
+	url = https://github.com/giosakti/slide-201711-organized-around-capabilities
